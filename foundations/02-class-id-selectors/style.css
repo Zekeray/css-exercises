@@ -1,0 +1,20 @@
+.p1{
+    color: black;
+    background-color: rgba(255, 0, 0, 0.45);
+    
+}
+
+.p2 {
+   font-size: 200px;
+}
+
+#div1 {
+    color: blue;
+    font-size: 300px;
+}
+
+#div2 {
+    color: black;
+    background-color: rgba(118, 230, 6, 0.502);
+    font-size: 300px;
+}
